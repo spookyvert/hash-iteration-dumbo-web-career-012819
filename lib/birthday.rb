@@ -11,4 +11,5 @@ def happy_birthday(birthday_kids)
       put "Happy Birthday #{kids_name}! You are now #{age} years old!"
     end
   end
+  happy_birthday
 end
